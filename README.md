@@ -1,5 +1,5 @@
 # Netflix-clone
  Created using HTML, CSS and Javascript
 
- ##Link
+ #Link
  streamifyhub.netlify.app
