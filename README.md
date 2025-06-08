@@ -1,2 +1,2 @@
 # Netflix-clone
-Created with CodeSandbox
+ Created using HTML, CSS and Javascript
